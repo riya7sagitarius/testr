@@ -8,6 +8,7 @@ public class App {
 
         System.out.println("Hello World!");
         System.out.println("story a implemented");
-        System.out.println("story a implemented wrong");
+
+        System.out.println("story a implemented correct");
     }
 }
